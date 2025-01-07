@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá, eu sou o Fabrício Eller! 👋🏼
 
-<!--
-**FabricioEllerSL/FabricioEllerSL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fabr.eller?igsh=M2hjYWI1ZWswMmw3)
 
-Here are some ideas to get you started:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabricioellersl&show_icons=true&theme=dracula)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias que utilizo no meu dia a dia 🖥️
+
+<div style="display: inline-block;"><br>
+    <img alt="Python" src="https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=python&logoColor=white"/>
+    <img alt="Python" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+    <img alt="Python" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img alt="Python" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img alt="Python" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</div>
+
+## Email para contato 📧
+
+* <h3>fabricioellersl@gmail.com</h3>
+
+## Este sou eu 😃
+Um dev curioso, sempre em busca de aprender algo novo e explorar as infinitas possibilidades do mundo da programação. Acredito que cada desafio é uma oportunidade de crescimento. Apaixonado por transformar ideias em soluções criativas e funcionais.
